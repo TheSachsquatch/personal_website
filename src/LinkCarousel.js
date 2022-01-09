@@ -22,7 +22,13 @@ class LinkCarousel extends Component {
 
 				<div className = "slide-holder">
 						<>
-						<Links link = "https://behance.net/sachinvijayaraj" name = "behance?" />
+						<Links link = "https://behance.net/sachinvijayaraj" name = "behance" />
+						</>
+				</div>
+
+				<div className = "slide-holder">
+						<>
+						<Links link = "https://s-recommender-cosine.herokuapp.com/" name = "ml website"/>
 						</>
 				</div>
 			</Carousel>
